@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1524484125 "/home/odissey/disser/text/dissertation/2018_Mikheev_Dis.tex" "2018_Mikheev_Dis.pdf" "2018_Mikheev_Dis" 1524484125
+["pdflatex"] 1524500557 "/home/odissey/disser/text/dissertation/2018_Mikheev_Dis.tex" "2018_Mikheev_Dis.pdf" "2018_Mikheev_Dis" 1524500558
   "/etc/texmf/web2c/texmf.cnf" 1522230944 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1524469477 3308 eee81981029f67083258db36df06e523 ""
   "/home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1522231970 3304 6a543c07045572737981351171e0505e ""
@@ -17,7 +17,7 @@
   "/home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/lati0700.tfm" 1524469489 3528 15a6f610d0057e691178d31f3f277358 ""
   "/home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/lati1000.tfm" 1524469486 3528 defd551e32c4af414f9b54b8101bfa9b ""
   "/home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/lati1440.tfm" 1522231977 3528 460e6901416a816cf4afa844b5d54101 ""
-  "/home/odissey/disser/text/dissertation/2018_Mikheev_Dis.tex" 1524484125 28598 d5d1ac70995b822e7237ac9b34334951 ""
+  "/home/odissey/disser/text/dissertation/2018_Mikheev_Dis.tex" 1524500557 35590 85bee716ac8d35be36fac469b2e21831 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1246382020 928 2dc8d444221b7a635bb58038579b861a ""
@@ -85,13 +85,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1522231124 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1522231145 3854142 3530deb636a7425743677e27c3227920 ""
-  "2018_Mikheev_Dis.aux" 1524484125 2534 5b7b2bd97165c37537105bebf73f5f2c ""
-  "2018_Mikheev_Dis.tex" 1524484125 28598 d5d1ac70995b822e7237ac9b34334951 ""
+  "2018_Mikheev_Dis.aux" 1524500558 3459 7ea38448ced1259a15a857509ac0fb0d ""
+  "2018_Mikheev_Dis.tex" 1524500557 35590 85bee716ac8d35be36fac469b2e21831 ""
   "ap_virt_2.jpg" 1432891834 35746 72e6ab5be28d39113b9c86937184778e ""
   "docker_daemon.PNG" 1427808842 21743 2831c312c936ea59380467f8b1f471d6 ""
   "lxc.png" 1431873036 42815 c5117b2ba3895f2f16c730e25cfbd6e6 ""
   "msu-building.jpg" 1524397264 7899 4461b3e4147c7505b90ba110ab62fb0e ""
   (generated)
+  "2018_Mikheev_Dis.log"
   "2018_Mikheev_Dis.pdf"
   "2018_Mikheev_Dis.aux"
-  "2018_Mikheev_Dis.log"
