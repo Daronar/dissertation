@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1524471677 "/home/odissey/disser/text/dissertation/2018_Mikheev_Dis.tex" "2018_Mikheev_Dis.pdf" "2018_Mikheev_Dis" 1524471677
+["pdflatex"] 1524477166 "/home/odissey/disser/text/dissertation/2018_Mikheev_Dis.tex" "2018_Mikheev_Dis.pdf" "2018_Mikheev_Dis" 1524477166
   "/etc/texmf/web2c/texmf.cnf" 1522230944 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1524469477 3308 eee81981029f67083258db36df06e523 ""
   "/home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1522231970 3304 6a543c07045572737981351171e0505e ""
@@ -17,7 +17,7 @@
   "/home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/lati0700.tfm" 1524469489 3528 15a6f610d0057e691178d31f3f277358 ""
   "/home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/lati1000.tfm" 1524469486 3528 defd551e32c4af414f9b54b8101bfa9b ""
   "/home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/lati1440.tfm" 1522231977 3528 460e6901416a816cf4afa844b5d54101 ""
-  "/home/odissey/disser/text/dissertation/2018_Mikheev_Dis.tex" 1524471677 11805 777f4bc66852568331b29ec2042eb87c ""
+  "/home/odissey/disser/text/dissertation/2018_Mikheev_Dis.tex" 1524477165 14743 6525437f970f6af80fb8cc7f95ccc2e0 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1246382020 928 2dc8d444221b7a635bb58038579b861a ""
@@ -83,8 +83,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1522231124 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1522231145 3854142 3530deb636a7425743677e27c3227920 ""
-  "2018_Mikheev_Dis.aux" 1524471677 978 a9fc580ac4c5e4144a5b7c65e5d68f95 ""
-  "2018_Mikheev_Dis.tex" 1524471677 11805 777f4bc66852568331b29ec2042eb87c ""
+  "2018_Mikheev_Dis.aux" 1524477166 1204 4e26b65a9db69acc7b27400e480be760 ""
+  "2018_Mikheev_Dis.tex" 1524477165 14743 6525437f970f6af80fb8cc7f95ccc2e0 ""
   "msu-building.jpg" 1524397264 7899 4461b3e4147c7505b90ba110ab62fb0e ""
   (generated)
   "2018_Mikheev_Dis.pdf"
