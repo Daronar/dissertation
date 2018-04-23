@@ -114,6 +114,17 @@ INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/larm2986.tfm
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx2986.tfm
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx3583.tfm
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
+INPUT ap_virt_2.jpg
+INPUT ./ap_virt_2.jpg
+INPUT ./ap_virt_2.jpg
+INPUT lxc.png
+INPUT ./lxc.png
+INPUT ./lxc.png
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+INPUT docker_daemon.PNG
+INPUT ./docker_daemon.PNG
+INPUT ./docker_daemon.PNG
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/larm3583.tfm
 INPUT 2018_Mikheev_Dis.aux
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
@@ -123,6 +134,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
