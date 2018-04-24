@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.28)  23 APR 2018 19:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.28)  24 APR 2018 17:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -314,209 +314,236 @@ Overfull \hbox (1.45432pt too wide) in paragraph at lines 78--79
 ди-тель-ность кон-
  []
 
-[1]
+[1] (./2018_Mikheev_Dis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 88.
+(Font)              <14.4> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 88.
-LaTeX Font Info:    Try loading font information for U+msa on input line 88.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(Font)              <7> on input line 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 88.
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2] [3] [4]
+) [2])
+\tf@toc=\write3
+\openout3 = `2018_Mikheev_Dis.toc'.
+
+ [3] [4]
+[5] [6]
 Глава 1.
-[5
+[7
 
 ]
-Overfull \hbox (0.19185pt too wide) in paragraph at lines 121--122
+Overfull \hbox (0.19185pt too wide) in paragraph at lines 126--127
 []\T2A/cmr/m/n/14.4 Разработать си-сте-му, ре-а-ли-зу-ю-щую ме-то-ди-ку оцен-ки
  про-из-во-ди-тель-
  []
 
-[6]
+[8]
 Глава 2.
-[7
+[9
 
-] [8]
-
-LaTeX Warning: Citation `VMware' on page 9 undefined on input line 150.
-
-
-Overfull \hbox (8.22433pt too wide) in paragraph at lines 150--151
-\T2A/cmr/m/n/14.4 вир-ту-а-ли-за-цию. При-ме-ра-ми мо-гут быть VMware ESXi [[]]
-, Microsoft Virtual
- []
-
-
-Overfull \hbox (5.64949pt too wide) in paragraph at lines 157--158
+] [10]
+Overfull \hbox (5.64949pt too wide) in paragraph at lines 162--163
 []\T2A/cmr/m/n/14.4 Основным же недо-стат-ком дан-но-го ви-да вир-ту-а-ли-за-ци
 и яв-ля-ет-ся необ-
  []
 
-[9] <ap_virt_2.jpg, id=50, 237.88875pt x 112.62074pt>
+[11] <ap_virt_2.jpg, id=56, 237.88875pt x 112.62074pt>
 File: ap_virt_2.jpg Graphic file (type jpg)
  <use ap_virt_2.jpg>
-Package pdftex.def Info: ap_virt_2.jpg used on input line 170.
+Package pdftex.def Info: ap_virt_2.jpg used on input line 175.
 (pdftex.def)             Requested size: 227.62206pt x 107.76582pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10]
-Overfull \hbox (6.97375pt too wide) in paragraph at lines 183--184
+[12]
+Overfull \hbox (6.97375pt too wide) in paragraph at lines 188--189
 []\T2A/cmr/m/n/14.4 Другим на-зва-ни-ем для это-го под-хо-да слу-жит "кон-тей-н
 е-ри-за-ция", "лег-
  []
 
-[11 <./ap_virt_2.jpg>] <lxc.png, id=57, 154.176pt x 149.358pt>
+[13 <./ap_virt_2.jpg>] <lxc.png, id=64, 154.176pt x 149.358pt>
 File: lxc.png Graphic file (type png)
  <use lxc.png>
-Package pdftex.def Info: lxc.png used on input line 188.
+Package pdftex.def Info: lxc.png used on input line 193.
 (pdftex.def)             Requested size: 136.57462pt x 132.30829pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 198.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 203.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 198.
- [12 <./lxc.png>]
-[13]
-Overfull \hbox (7.76225pt too wide) in paragraph at lines 218--219
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 203.
+ [14 <./lxc.png>]
+[15]
+Overfull \hbox (7.76225pt too wide) in paragraph at lines 223--224
 []\T2A/cmr/m/n/14.4 Следующим ша-гом слу-жит ав-то-ма-ти-за-ция ра-бо-ты с LXC-
 контейнером,
  []
 
 
-Overfull \hbox (11.54442pt too wide) in paragraph at lines 220--221
+Overfull \hbox (11.54442pt too wide) in paragraph at lines 225--226
 \T2A/cmr/m/n/14.4 за-ви-си-мо-стя-ми, обес-пе-чи-ва-ю-щее API вы-со-ко-го уров-
 ня к LXC-контейнерам.
  []
 
-[14]
-Overfull \hbox (2.7812pt too wide) in paragraph at lines 228--229
+[16]
+Overfull \hbox (2.7812pt too wide) in paragraph at lines 233--234
 []\T2A/cmr/m/n/14.4 За управ-ле-ние Docker-контейнерами от-ве-ча-ет Docker-daem
 on, про-цесс,
  []
 
-<docker_daemon.PNG, id=69, 472.01344pt x 255.20343pt>
+<docker_daemon.PNG, id=75, 472.01344pt x 255.20343pt>
 File: docker_daemon.PNG Graphic file (type png)
  <use docker_daemon.PNG>
-Package pdftex.def Info: docker_daemon.PNG used on input line 231.
+Package pdftex.def Info: docker_daemon.PNG used on input line 236.
 (pdftex.def)             Requested size: 227.62206pt x 123.06868pt.
 
-[15 <./docker_daemon.PNG>]
-Overfull \hbox (15.52719pt too wide) in paragraph at lines 239--240
+[17 <./docker_daemon.PNG>]
+Overfull \hbox (15.52719pt too wide) in paragraph at lines 244--245
 \T2A/cmr/m/n/14.4 ри-за-ции при-ло-же-ния. Су-ще-ству-ет так же Rocket для Linu
 x [[]] и Drawbridge
  []
 
-[16] [17]
+[18] [19]
 Глава 3.
-[18
+[20
 
 ]
-Overfull \hbox (0.88242pt too wide) in paragraph at lines 273--274
+Overfull \hbox (0.88242pt too wide) in paragraph at lines 280--281
 []\T2A/cmr/m/n/14.4 В тре-тьем экс-пе-ри-мен-те про-во-ди-лись ис-сле-до-ва-ния
 , при ко-то-рым вир-
  []
 
-[19]
-Overfull \hbox (5.26602pt too wide) in paragraph at lines 283--283
+[21]
+Overfull \hbox (5.26602pt too wide) in paragraph at lines 290--290
 []\T2A/cmr/bx/n/20.74 Производительность вир-ту-аль-ных ма-шин
  []
 
-[20]
-Overfull \hbox (12.56358pt too wide) in paragraph at lines 296--297
+[22]
+Overfull \hbox (12.56358pt too wide) in paragraph at lines 303--304
 []\T2A/cmr/m/n/14.4 Для из-ме-ре-ния про-из-во-ди-тель-но-сти мож-но ис-поль-зо
 -вать го-то-вые бенч-
  []
 
-[21] [22]
-Underfull \hbox (badness 1540) in paragraph at lines 310--311
+[23] [24]
+Глава 4.
+
+Overfull \hbox (3.93022pt too wide) in paragraph at lines 318--319
+[]\T2A/cmr/m/n/14.4 Дополнительно пред-ла-га-ет-ся ис-сле-до-вать про-из-во-ди-
+тель-ность Docker-
+ []
+
+[25
+
+] [26] <uml.png, id=110, 1206.5075pt x 1005.7575pt>
+File: uml.png Graphic file (type png)
+ <use uml.png>
+Package pdftex.def Info: uml.png used on input line 338.
+(pdftex.def)             Requested size: 500.77129pt x 417.44298pt.
+
+Overfull \hbox (45.52718pt too wide) in paragraph at lines 338--339
+ [] 
+ []
+
+[27 <./uml.png>] [28]
+Overfull \hbox (11.6709pt too wide) in paragraph at lines 363--364
+[]\T2A/cmr/m/n/14.4 Класс Test хра-нит опи-са-ние те-ста в ви-де, по-нят-ном кл
+ас-су TestExecutor.
+ []
+
+[29] [30]
+Глава 5.
+[31
+
+]
+Глава 6.
+[32
+
+]
+Underfull \hbox (badness 1540) in paragraph at lines 381--382
 \T2A/cmr/m/n/14.4 Fundamentals. // School of Informatics and Computing, Indiana
 
  []
 
 
-Overfull \hbox (8.88101pt too wide) in paragraph at lines 312--313
+Overfull \hbox (8.88101pt too wide) in paragraph at lines 383--384
 []\T2A/cmr/m/n/14.4 Homepage of VMWare ESXi. http://www.vmware.com/ru/products/
 esxi-
  []
 
 
-Underfull \hbox (badness 3148) in paragraph at lines 316--317
+Underfull \hbox (badness 3148) in paragraph at lines 387--388
 []\T2A/cmr/m/n/14.4 Homepage of Xen. https://www.xenproject.org (да-та об-ра-ще
 -ния
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 320--321
+Underfull \hbox (badness 1742) in paragraph at lines 391--392
 []\T2A/cmr/m/n/14.4 Homepage of KVM. https://www.linux-kvm.org (да-та об-ра-ще-
 ния
  []
 
-[23
+[33
 
 ]
-Underfull \hbox (badness 2189) in paragraph at lines 330--331
+Underfull \hbox (badness 2189) in paragraph at lines 401--402
 []\T2A/cmr/m/n/14.4 Homepage of DrawBridge. URL: http://research.microsoft.com/
 en-
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 342--343
+Underfull \hbox (badness 1173) in paragraph at lines 413--414
 []\T2A/cmr/m/n/14.4 Anton Beloglazov, Rajkumar Buyya. Optimal online determinis
 tic
  []
 
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
 \T2A/cmr/m/n/14.4 Conference on Computing, Communication and Automation
  []
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 350--351
+Underfull \hbox (badness 2318) in paragraph at lines 421--422
 []\T2A/cmr/m/n/14.4 Homepage of Phoronix-test-suite. URL: http://www.phoronix-t
 est-
  []
 
-[25] (./2018_Mikheev_Dis.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[35] (./2018_Mikheev_Dis.aux) ) 
 Here is how much of TeX's memory you used:
- 3044 strings out of 493029
- 44187 string characters out of 6136234
- 106937 words of memory out of 5000000
- 6507 multiletter control sequences out of 15000+600000
+ 3054 strings out of 493029
+ 44323 string characters out of 6136234
+ 106968 words of memory out of 5000000
+ 6513 multiletter control sequences out of 15000+600000
  18961 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,5n,27p,888b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></u
-sr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts
-/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-sup
-er/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2986.pfb></us
-r/share/texmf/fonts/type1/public/cm-super/sfbx3583.pfb></usr/share/texmf/fonts/
-type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
-r/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on 2018_Mikheev_Dis.pdf (26 pages, 336892 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-su
+per-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/pub
+lic/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx144
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/te
+xmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfbx2986.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx3583
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfrm1728.pfb>
+Output written on 2018_Mikheev_Dis.pdf (36 pages, 514000 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
+ 209 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

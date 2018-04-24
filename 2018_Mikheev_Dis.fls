@@ -94,6 +94,11 @@ INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm
+INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/larm3583.tfm
+INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx3583.tfm
+INPUT 2018_Mikheev_Dis.toc
+INPUT 2018_Mikheev_Dis.toc
+INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
@@ -110,10 +115,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+OUTPUT 2018_Mikheev_Dis.toc
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/larm2986.tfm
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx2986.tfm
-INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx3583.tfm
-INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
 INPUT ap_virt_2.jpg
 INPUT ./ap_virt_2.jpg
 INPUT ./ap_virt_2.jpg
@@ -125,7 +129,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 INPUT docker_daemon.PNG
 INPUT ./docker_daemon.PNG
 INPUT ./docker_daemon.PNG
-INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/larm3583.tfm
+INPUT uml.png
+INPUT ./uml.png
+INPUT ./uml.png
 INPUT 2018_Mikheev_Dis.aux
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
