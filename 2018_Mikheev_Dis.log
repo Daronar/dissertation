@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.28)  24 APR 2018 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.28)  7 MAY 2018 22:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -348,7 +348,7 @@ Overfull \hbox (0.19185pt too wide) in paragraph at lines 126--127
 [9
 
 ] [10]
-Overfull \hbox (5.64949pt too wide) in paragraph at lines 162--163
+Overfull \hbox (5.64949pt too wide) in paragraph at lines 163--164
 []\T2A/cmr/m/n/14.4 ќсновным же недо-стат-ком дан-но-го ви-да вир-ту-а-ли-за-ци
 и €в-л€-ет-с€ необ-
  []
@@ -356,14 +356,11 @@ Overfull \hbox (5.64949pt too wide) in paragraph at lines 162--163
 [11] <ap_virt_2.jpg, id=56, 237.88875pt x 112.62074pt>
 File: ap_virt_2.jpg Graphic file (type jpg)
  <use ap_virt_2.jpg>
-Package pdftex.def Info: ap_virt_2.jpg used on input line 175.
+Package pdftex.def Info: ap_virt_2.jpg used on input line 176.
 (pdftex.def)             Requested size: 227.62206pt x 107.76582pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [12]
-Overfull \hbox (6.97375pt too wide) in paragraph at lines 188--189
+Overfull \hbox (6.97375pt too wide) in paragraph at lines 189--190
 []\T2A/cmr/m/n/14.4 ƒругим на-зва-ни-ем дл€ это-го под-хо-да слу-жит "кон-тей-н
 е-ри-за-ци€", "лег-
  []
@@ -371,31 +368,31 @@ Overfull \hbox (6.97375pt too wide) in paragraph at lines 188--189
 [13 <./ap_virt_2.jpg>] <lxc.png, id=64, 154.176pt x 149.358pt>
 File: lxc.png Graphic file (type png)
  <use lxc.png>
-Package pdftex.def Info: lxc.png used on input line 193.
+Package pdftex.def Info: lxc.png used on input line 194.
 (pdftex.def)             Requested size: 136.57462pt x 132.30829pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 203.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 204.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 203.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 204.
  [14 <./lxc.png>]
 [15]
-Overfull \hbox (7.76225pt too wide) in paragraph at lines 223--224
+Overfull \hbox (7.76225pt too wide) in paragraph at lines 224--225
 []\T2A/cmr/m/n/14.4 —ледующим ша-гом слу-жит ав-то-ма-ти-за-ци€ ра-бо-ты с LXC-
 контейнером,
  []
 
 
-Overfull \hbox (11.54442pt too wide) in paragraph at lines 225--226
+Overfull \hbox (11.54442pt too wide) in paragraph at lines 226--227
 \T2A/cmr/m/n/14.4 за-ви-си-мо-ст€-ми, обес-пе-чи-ва-ю-щее API вы-со-ко-го уров-
 н€ к LXC-контейнерам.
  []
 
 [16]
-Overfull \hbox (2.7812pt too wide) in paragraph at lines 233--234
+Overfull \hbox (2.7812pt too wide) in paragraph at lines 234--235
 []\T2A/cmr/m/n/14.4 «а управ-ле-ние Docker-контейнерами от-ве-ча-ет Docker-daem
 on, про-цесс,
  []
@@ -403,11 +400,11 @@ on, про-цесс,
 <docker_daemon.PNG, id=75, 472.01344pt x 255.20343pt>
 File: docker_daemon.PNG Graphic file (type png)
  <use docker_daemon.PNG>
-Package pdftex.def Info: docker_daemon.PNG used on input line 236.
+Package pdftex.def Info: docker_daemon.PNG used on input line 237.
 (pdftex.def)             Requested size: 227.62206pt x 123.06868pt.
 
 [17 <./docker_daemon.PNG>]
-Overfull \hbox (15.52719pt too wide) in paragraph at lines 244--245
+Overfull \hbox (15.52719pt too wide) in paragraph at lines 245--246
 \T2A/cmr/m/n/14.4 ри-за-ции при-ло-же-ни€. —у-ще-ству-ет так же Rocket дл€ Linu
 x [[]] и Drawbridge
  []
@@ -417,18 +414,18 @@ x [[]] и Drawbridge
 [20
 
 ]
-Overfull \hbox (0.88242pt too wide) in paragraph at lines 280--281
+Overfull \hbox (0.88242pt too wide) in paragraph at lines 281--282
 []\T2A/cmr/m/n/14.4 ¬ тре-тьем экс-пе-ри-мен-те про-во-ди-лись ис-сле-до-ва-ни€
 , при ко-то-рым вир-
  []
 
 [21]
-Overfull \hbox (5.26602pt too wide) in paragraph at lines 290--290
+Overfull \hbox (5.26602pt too wide) in paragraph at lines 291--291
 []\T2A/cmr/bx/n/20.74 ѕроизводительность вир-ту-аль-ных ма-шин
  []
 
 [22]
-Overfull \hbox (12.56358pt too wide) in paragraph at lines 303--304
+Overfull \hbox (12.56358pt too wide) in paragraph at lines 304--305
 []\T2A/cmr/m/n/14.4 ƒл€ из-ме-ре-ни€ про-из-во-ди-тель-но-сти мож-но ис-поль-зо
 -вать го-то-вые бенч-
  []
@@ -436,7 +433,7 @@ Overfull \hbox (12.56358pt too wide) in paragraph at lines 303--304
 [23] [24]
 √лава 4.
 
-Overfull \hbox (3.93022pt too wide) in paragraph at lines 318--319
+Overfull \hbox (3.93022pt too wide) in paragraph at lines 320--321
 []\T2A/cmr/m/n/14.4 ƒополнительно пред-ла-га-ет-с€ ис-сле-до-вать про-из-во-ди-
 тель-ность Docker-
  []
@@ -446,15 +443,10 @@ Overfull \hbox (3.93022pt too wide) in paragraph at lines 318--319
 ] [26] <uml.png, id=110, 1206.5075pt x 1005.7575pt>
 File: uml.png Graphic file (type png)
  <use uml.png>
-Package pdftex.def Info: uml.png used on input line 338.
-(pdftex.def)             Requested size: 500.77129pt x 417.44298pt.
-
-Overfull \hbox (45.52718pt too wide) in paragraph at lines 338--339
- [] 
- []
-
-[27 <./uml.png>] [28]
-Overfull \hbox (11.6709pt too wide) in paragraph at lines 363--364
+Package pdftex.def Info: uml.png used on input line 340.
+(pdftex.def)             Requested size: 364.19667pt x 303.58652pt.
+ [27 <./uml.png>] [28]
+Overfull \hbox (11.6709pt too wide) in paragraph at lines 365--366
 []\T2A/cmr/m/n/14.4  ласс Test хра-нит опи-са-ние те-ста в ви-де, по-н€т-ном кл
 ас-су TestExecutor.
  []
@@ -464,67 +456,271 @@ Overfull \hbox (11.6709pt too wide) in paragraph at lines 363--364
 [31
 
 ]
-√лава 6.
-[32
+Overfull \hbox (3.16934pt too wide) in paragraph at lines 392--393
+\T2A/cmr/m/n/14.4 Ќиже пред-став-ле-ны ха-рак-те-ри-си-ки фи-зи-че-ско-го сер-в
+е-ра, на ко-то-ром про-
+ []
 
-]
-Underfull \hbox (badness 1540) in paragraph at lines 381--382
+
+Overfull \hbox (30.54584pt too wide) in paragraph at lines 402--403
+[]\T2A/cmr/m/n/14.4 ќперационна€ си-сте-ма: Linux CentOS 7.0, Kernel: 3.10.0-69
+3.17.1.el7.x86_64 
+ []
+
+[32] <jtr_great_docker_vm_average.png, id=131, 462.528pt x 346.896pt>
+File: jtr_great_docker_vm_average.png Graphic file (type png)
+
+<use jtr_great_docker_vm_average.png>
+Package pdftex.def Info: jtr_great_docker_vm_average.png used on input line 414
+.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+<jtr_great_docker_vm_median.png, id=132, 462.528pt x 346.896pt>
+File: jtr_great_docker_vm_median.png Graphic file (type png)
+
+<use jtr_great_docker_vm_median.png>
+Package pdftex.def Info: jtr_great_docker_vm_median.png used on input line 420.
+
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+ [33 <./jtr_great_docker_vm_average.png>]
+[34 <./jtr_great_docker_vm_median.png>]
+<jtr_middle_great_docker_vm_difference.png, id=141, 462.528pt x 346.896pt>
+File: jtr_middle_great_docker_vm_difference.png Graphic file (type png)
+
+<use jtr_middle_great_docker_vm_difference.png>
+Package pdftex.def Info: jtr_middle_great_docker_vm_difference.png used on inpu
+t line 434.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+<jtr_middle_none_docker_vm_average.png, id=142, 462.528pt x 346.896pt>
+File: jtr_middle_none_docker_vm_average.png Graphic file (type png)
+
+<use jtr_middle_none_docker_vm_average.png>
+Package pdftex.def Info: jtr_middle_none_docker_vm_average.png used on input li
+ne 444.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+<jtr_middle_none_docker_vm_median.png, id=143, 462.528pt x 346.896pt>
+File: jtr_middle_none_docker_vm_median.png Graphic file (type png)
+
+<use jtr_middle_none_docker_vm_median.png>
+Package pdftex.def Info: jtr_middle_none_docker_vm_median.png used on input lin
+e 450.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[35 <./jtr_middle_great_docker_vm_difference.png>]
+
+LaTeX Warning: Text page 36 contains only floats.
+
+
+Overfull \vbox (2.45966pt too high) has occurred while \output is active []
+
+
+[36 <./jtr_middle_none_docker_vm_average.png> <./jtr_middle_none_docker_vm_medi
+an.png>]
+<jtr_middle_none_docker_vm_difference.png, id=154, 462.528pt x 346.896pt>
+File: jtr_middle_none_docker_vm_difference.png Graphic file (type png)
+
+<use jtr_middle_none_docker_vm_difference.png>
+Package pdftex.def Info: jtr_middle_none_docker_vm_difference.png used on input
+ line 460.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+Overfull \hbox (3.55453pt too wide) in paragraph at lines 467--468
+[]\T2A/cmr/m/n/14.4 ¬ ито-ге мож-но за-клю-чить, что про-из-во-ди-тель-ность пр
+и-ло-же-ни€ <<ѕод-
+ []
+
+[37 <./jtr_middle_none_docker_vm_difference.png>]
+<pybench_middle_great_docker_vm_average.png, id=159, 462.528pt x 346.896pt>
+File: pybench_middle_great_docker_vm_average.png Graphic file (type png)
+
+<use pybench_middle_great_docker_vm_average.png>
+Package pdftex.def Info: pybench_middle_great_docker_vm_average.png used on inp
+ut line 480.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+<pybench_middle_great_docker_vm_median.png, id=160, 462.528pt x 346.896pt>
+File: pybench_middle_great_docker_vm_median.png Graphic file (type png)
+
+<use pybench_middle_great_docker_vm_median.png>
+Package pdftex.def Info: pybench_middle_great_docker_vm_median.png used on inpu
+t line 486.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+ [38]
+
+LaTeX Warning: Text page 39 contains only floats.
+
+[39 <./pybench_middle_great_docker_vm_average.png> <./pybench_middle_great_dock
+er_vm_median.png>]
+<pybench_none_docker_vm_average.png, id=169, 462.528pt x 346.896pt>
+File: pybench_none_docker_vm_average.png Graphic file (type png)
+
+<use pybench_none_docker_vm_average.png>
+Package pdftex.def Info: pybench_none_docker_vm_average.png used on input line 
+496.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+<pybench_none_docker_vm_median.png, id=170, 462.528pt x 346.896pt>
+File: pybench_none_docker_vm_median.png Graphic file (type png)
+
+<use pybench_none_docker_vm_median.png>
+Package pdftex.def Info: pybench_none_docker_vm_median.png used on input line 5
+02.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+Overfull \hbox (0.67926pt too wide) in paragraph at lines 511--511
+[]\T2A/cmr/bx/n/20.74 ѕропускна€ спо-соб-ность опе-ра-тив-ной па-
+ []
+
+[40 <./pybench_none_docker_vm_average.png>]
+<ramspeed_long_great_docker_vm_average.png, id=175, 462.528pt x 346.896pt>
+File: ramspeed_long_great_docker_vm_average.png Graphic file (type png)
+
+<use ramspeed_long_great_docker_vm_average.png>
+Package pdftex.def Info: ramspeed_long_great_docker_vm_average.png used on inpu
+t line 517.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+<ramspeed_long_great_docker_vm_median.png, id=176, 462.528pt x 346.896pt>
+File: ramspeed_long_great_docker_vm_median.png Graphic file (type png)
+
+<use ramspeed_long_great_docker_vm_median.png>
+Package pdftex.def Info: ramspeed_long_great_docker_vm_median.png used on input
+ line 523.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+ [41 <./pybench_none_docker_vm_median.png>]
+
+LaTeX Warning: Text page 42 contains only floats.
+
+
+Overfull \vbox (2.45966pt too high) has occurred while \output is active []
+
+
+[42 <./ramspeed_long_great_docker_vm_average.png> <./ramspeed_long_great_docker
+_vm_median.png>]
+<ramspeed_long_great_docker_vm_difference.png, id=187, 462.528pt x 346.896pt>
+File: ramspeed_long_great_docker_vm_difference.png Graphic file (type png)
+
+<use ramspeed_long_great_docker_vm_difference.png>
+Package pdftex.def Info: ramspeed_long_great_docker_vm_difference.png used on i
+nput line 533.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+Underfull \hbox (badness 2237) in paragraph at lines 534--534
+[]\T2A/cmr/m/n/14.4 –ис. 5.13. «а-ви-си-мость раз-но-сти про-ив-зво-ди-тель-но-
+сти при-ло-же-ни€
+ []
+
+<ramspeed_none_docker_vm_average.png, id=188, 462.528pt x 346.896pt>
+File: ramspeed_none_docker_vm_average.png Graphic file (type png)
+
+<use ramspeed_none_docker_vm_average.png>
+Package pdftex.def Info: ramspeed_none_docker_vm_average.png used on input line
+ 544.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+<ramspeed_none_docker_vm_median.png, id=189, 462.528pt x 346.896pt>
+File: ramspeed_none_docker_vm_median.png Graphic file (type png)
+
+<use ramspeed_none_docker_vm_median.png>
+Package pdftex.def Info: ramspeed_none_docker_vm_median.png used on input line 
+550.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+<ramspeed_none_docker_vm_difference.png, id=190, 462.528pt x 346.896pt>
+File: ramspeed_none_docker_vm_difference.png Graphic file (type png)
+
+<use ramspeed_none_docker_vm_difference.png>
+Package pdftex.def Info: ramspeed_none_docker_vm_difference.png used on input l
+ine 558.
+(pdftex.def)             Requested size: 364.19667pt x 273.16086pt.
+
+Underfull \hbox (badness 2237) in paragraph at lines 559--559
+[]\T2A/cmr/m/n/14.4 –ис. 5.16. «а-ви-си-мость раз-но-сти про-ив-зво-ди-тель-но-
+сти при-ло-же-ни€
+ []
+
+[43 <./ramspeed_long_great_docker_vm_difference.png>]
+
+LaTeX Warning: Text page 44 contains only floats.
+
+
+Overfull \vbox (2.45966pt too high) has occurred while \output is active []
+
+
+[44 <./ramspeed_none_docker_vm_average.png> <./ramspeed_none_docker_vm_median.p
+ng>]
+Overfull \hbox (5.26552pt too wide) in paragraph at lines 566--567
+\T2A/cmr/m/n/14.4 ѕо ре-зуль-та-там экс-пе-ри-мен-таль-но-го ис-сле-до-ва-ни€ м
+ож-но за-клю-чить, что: 
+ []
+
+[45 <./ramspeed_none_docker_vm_difference.png>] [46]
+√лава 6.
+[47
+
+] [48] [49]
+Underfull \hbox (badness 1540) in paragraph at lines 593--594
 \T2A/cmr/m/n/14.4 Fundamentals. // School of Informatics and Computing, Indiana
 
  []
 
 
-Overfull \hbox (8.88101pt too wide) in paragraph at lines 383--384
+Overfull \hbox (8.88101pt too wide) in paragraph at lines 595--596
 []\T2A/cmr/m/n/14.4 Homepage of VMWare ESXi. http://www.vmware.com/ru/products/
 esxi-
  []
 
 
-Underfull \hbox (badness 3148) in paragraph at lines 387--388
+Underfull \hbox (badness 3148) in paragraph at lines 599--600
 []\T2A/cmr/m/n/14.4 Homepage of Xen. https://www.xenproject.org (да-та об-ра-ще
 -ни€
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 391--392
+Underfull \hbox (badness 1742) in paragraph at lines 603--604
 []\T2A/cmr/m/n/14.4 Homepage of KVM. https://www.linux-kvm.org (да-та об-ра-ще-
 ни€
  []
 
-[33
+[50
 
 ]
-Underfull \hbox (badness 2189) in paragraph at lines 401--402
+Underfull \hbox (badness 2189) in paragraph at lines 613--614
 []\T2A/cmr/m/n/14.4 Homepage of DrawBridge. URL: http://research.microsoft.com/
 en-
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 413--414
+Underfull \hbox (badness 1173) in paragraph at lines 625--626
 []\T2A/cmr/m/n/14.4 Anton Beloglazov, Rajkumar Buyya. Optimal online determinis
 tic
  []
 
-[34]
-Underfull \hbox (badness 10000) in paragraph at lines 419--420
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 631--632
 \T2A/cmr/m/n/14.4 Conference on Computing, Communication and Automation
  []
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 421--422
+Underfull \hbox (badness 2318) in paragraph at lines 633--634
 []\T2A/cmr/m/n/14.4 Homepage of Phoronix-test-suite. URL: http://www.phoronix-t
 est-
  []
 
-[35] (./2018_Mikheev_Dis.aux) ) 
+[52] (./2018_Mikheev_Dis.aux) ) 
 Here is how much of TeX's memory you used:
- 3054 strings out of 493029
- 44323 string characters out of 6136234
- 106968 words of memory out of 5000000
- 6513 multiletter control sequences out of 15000+600000
+ 3154 strings out of 493029
+ 48019 string characters out of 6136234
+ 107188 words of memory out of 5000000
+ 6597 multiletter control sequences out of 15000+600000
  18961 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,5n,27p,888b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,5n,27p,1022b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-su
 per-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
@@ -540,10 +736,10 @@ ic/cm-super/sfbx2986.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx3583
 .pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/tex
 mf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfrm1728.pfb>
-Output written on 2018_Mikheev_Dis.pdf (36 pages, 514000 bytes).
+Output written on 2018_Mikheev_Dis.pdf (53 pages, 2400928 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
+ 297 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

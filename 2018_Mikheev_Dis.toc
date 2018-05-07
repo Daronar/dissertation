@@ -20,4 +20,9 @@
 \contentsline {section}{\numberline {4.2.\hskip .5em\relax }Алгоритм работы реализованной системы}{27}
 \contentsline {section}{\numberline {4.3.\hskip .5em\relax }Применимость}{29}
 \contentsline {chapter}{\numberline {5.}Экспериментальное исследование}{31}
-\contentsline {chapter}{\numberline {6.}Заключение}{32}
+\contentsline {section}{\numberline {5.1.\hskip .5em\relax }Экспериментальный стенд}{32}
+\contentsline {section}{\numberline {5.2.\hskip .5em\relax }Подбор паролей}{32}
+\contentsline {section}{\numberline {5.3.\hskip .5em\relax }Python-код}{38}
+\contentsline {section}{\numberline {5.4.\hskip .5em\relax }Пропускная способность оперативной памяти}{40}
+\contentsline {section}{\numberline {5.5.\hskip .5em\relax }Выводы}{45}
+\contentsline {chapter}{\numberline {6.}Заключение}{47}
