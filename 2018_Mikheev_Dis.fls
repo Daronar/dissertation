@@ -83,10 +83,16 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT msu-building.jpg
-INPUT ./msu-building.jpg
+INPUT MSU.eps
+INPUT ./MSU.eps
+INPUT ./MSU.eps
+INPUT ./MSU-eps-converted-to.pdf
+INPUT ./MSU-eps-converted-to.pdf
+INPUT ./MSU.eps
+INPUT ./MSU-eps-converted-to.pdf
+INPUT ./MSU-eps-converted-to.pdf
 OUTPUT 2018_Mikheev_Dis.pdf
-INPUT ./msu-building.jpg
+INPUT ./MSU-eps-converted-to.pdf
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm
 INPUT /home/odissey/.texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm
@@ -198,3 +204,4 @@ INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx3583.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb
