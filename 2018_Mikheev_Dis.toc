@@ -1,28 +1,28 @@
 \contentsline {chapter}{Аннотация}{2}
-\contentsline {chapter}{Введение}{4}
-\contentsline {chapter}{\numberline {1.}Постановка задачи}{7}
-\contentsline {section}{\numberline {1.1.\hskip .5em\relax }Цель работы}{7}
-\contentsline {section}{\numberline {1.2.\hskip .5em\relax }Задачи}{7}
-\contentsline {chapter}{\numberline {2.}Технологии виртуализации}{9}
-\contentsline {section}{\numberline {2.1.\hskip .5em\relax }Полная виртуализация}{10}
-\contentsline {section}{\numberline {2.2.\hskip .5em\relax }Паравиртуализация}{11}
-\contentsline {section}{\numberline {2.3.\hskip .5em\relax }Аппаратная виртуализация}{11}
-\contentsline {section}{\numberline {2.4.\hskip .5em\relax }Общие достоинства и недостатки}{12}
-\contentsline {section}{\numberline {2.5.\hskip .5em\relax }Виртуализация на уровне операционной системы}{13}
-\contentsline {section}{\numberline {2.6.\hskip .5em\relax }Контейнеризация приложений}{15}
-\contentsline {section}{\numberline {2.7.\hskip .5em\relax }Выводы}{18}
-\contentsline {chapter}{\numberline {3.}Обзор существующих решений}{20}
-\contentsline {section}{\numberline {3.1.\hskip .5em\relax }Производительность виртуальной машины}{20}
-\contentsline {section}{\numberline {3.2.\hskip .5em\relax }Производительность виртуальных машин и контейнеров}{22}
-\contentsline {section}{\numberline {3.3.\hskip .5em\relax }Выводы}{23}
-\contentsline {chapter}{\numberline {4.}Практическая реализация}{25}
-\contentsline {section}{\numberline {4.1.\hskip .5em\relax }Требования}{25}
-\contentsline {section}{\numberline {4.2.\hskip .5em\relax }Алгоритм работы реализованной системы}{26}
-\contentsline {section}{\numberline {4.3.\hskip .5em\relax }Применимость}{29}
-\contentsline {chapter}{\numberline {5.}Экспериментальное исследование}{30}
-\contentsline {section}{\numberline {5.1.\hskip .5em\relax }Экспериментальный стенд}{31}
-\contentsline {section}{\numberline {5.2.\hskip .5em\relax }Подбор паролей}{32}
-\contentsline {section}{\numberline {5.3.\hskip .5em\relax }Python-код}{37}
-\contentsline {section}{\numberline {5.4.\hskip .5em\relax }Пропускная способность оперативной памяти}{40}
-\contentsline {section}{\numberline {5.5.\hskip .5em\relax }Выводы}{43}
-\contentsline {chapter}{\numberline {6.}Заключение}{46}
+\contentsline {chapter}{Введение}{5}
+\contentsline {chapter}{\numberline {1.}Постановка задачи}{8}
+\contentsline {section}{\numberline {1.1.\hskip .5em\relax }Цель работы}{8}
+\contentsline {section}{\numberline {1.2.\hskip .5em\relax }Задачи}{8}
+\contentsline {chapter}{\numberline {2.}Технологии виртуализации}{10}
+\contentsline {section}{\numberline {2.1.\hskip .5em\relax }Полная виртуализация}{11}
+\contentsline {section}{\numberline {2.2.\hskip .5em\relax }Паравиртуализация}{12}
+\contentsline {section}{\numberline {2.3.\hskip .5em\relax }Аппаратная виртуализация}{12}
+\contentsline {section}{\numberline {2.4.\hskip .5em\relax }Общие достоинства и недостатки}{13}
+\contentsline {section}{\numberline {2.5.\hskip .5em\relax }Виртуализация на уровне операционной системы}{14}
+\contentsline {section}{\numberline {2.6.\hskip .5em\relax }Контейнеризация приложений}{16}
+\contentsline {section}{\numberline {2.7.\hskip .5em\relax }Выводы}{19}
+\contentsline {chapter}{\numberline {3.}Обзор существующих решений}{21}
+\contentsline {section}{\numberline {3.1.\hskip .5em\relax }Производительность виртуальной машины}{21}
+\contentsline {section}{\numberline {3.2.\hskip .5em\relax }Производительность виртуальных машин и контейнеров}{23}
+\contentsline {section}{\numberline {3.3.\hskip .5em\relax }Выводы}{24}
+\contentsline {chapter}{\numberline {4.}Практическая реализация}{26}
+\contentsline {section}{\numberline {4.1.\hskip .5em\relax }Требования}{26}
+\contentsline {section}{\numberline {4.2.\hskip .5em\relax }Алгоритм работы реализованной системы}{27}
+\contentsline {section}{\numberline {4.3.\hskip .5em\relax }Применимость}{30}
+\contentsline {chapter}{\numberline {5.}Экспериментальное исследование}{31}
+\contentsline {section}{\numberline {5.1.\hskip .5em\relax }Экспериментальный стенд}{32}
+\contentsline {section}{\numberline {5.2.\hskip .5em\relax }Подбор паролей}{33}
+\contentsline {section}{\numberline {5.3.\hskip .5em\relax }Python-код}{38}
+\contentsline {section}{\numberline {5.4.\hskip .5em\relax }Пропускная способность оперативной памяти}{41}
+\contentsline {section}{\numberline {5.5.\hskip .5em\relax }Выводы}{44}
+\contentsline {chapter}{\numberline {6.}Заключение}{47}
