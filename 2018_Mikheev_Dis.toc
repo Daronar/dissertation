@@ -1,4 +1,4 @@
-\contentsline {chapter}{Аннотация}{1}
+\contentsline {chapter}{Аннотация}{2}
 \contentsline {chapter}{Введение}{4}
 \contentsline {chapter}{\numberline {1.}Постановка задачи}{7}
 \contentsline {section}{\numberline {1.1.\hskip .5em\relax }Цель работы}{7}
